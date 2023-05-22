@@ -1,0 +1,9 @@
+.buttons {
+  display: flex;
+  gap: 30px;
+}
+.button {
+  font-size: 32px;
+  padding: 10px;
+  border-radius: 10px;
+}
